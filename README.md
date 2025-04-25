@@ -1,6 +1,8 @@
 # Digit Recognization on mnist Dataset
 
-A Repo to train a Digit Recognizer on the mnist dataset using tensorflow / keras
+A Repo to train a Digit Recognizer on the famous mnist dataset using tensorflow/keras
+
+The mnist dataset contains 28 x 28 grayscale Images of numbers between 0 - 9
 
 <table>
   <tr>
