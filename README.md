@@ -20,8 +20,8 @@
     <td><img src= https://github.com/user-attachments/assets/84b061d1-5373-4eee-a6c9-9705be8474a4 /></td>
   </tr>
   <tr>
-    <td style="text-align: center">Beschreibung 1</td>
-    <td style="text-align: center">good traing results quickly but overfitting to train dataset 2</td>
+    <td style="text-align: center">slower fitting to dataset </td>
+    <td style="text-align: center">good traing results quickly but overfitting to train dataset</td>
   </tr>
 </table>
 
