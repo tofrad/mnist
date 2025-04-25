@@ -1,5 +1,7 @@
 # Digit Recognization on mnist Dataset
 
+A Repo to train a Digit Recognizer on the mnist dataset using tensorflow / keras
+
 <table>
   <tr>
     <th colspan="3" style="text-align: center">Examples from Mnist Dataset</th>
